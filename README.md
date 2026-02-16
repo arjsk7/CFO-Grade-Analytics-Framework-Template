@@ -4,6 +4,8 @@ A comprehensive Power BI analytics platform delivering 360° organizational visi
 
 Overview
 
+****This project uses simulated data to demonstrate enterprise-scale modeling, KPI structuring, and analytics architecture.
+
 This project consolidates organizational performance into a unified analytics platform covering:
 
 Financial Overview
